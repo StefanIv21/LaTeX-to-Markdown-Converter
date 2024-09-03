@@ -39,5 +39,5 @@ $ gcc -o latex_to_md latex_to_md.c
 $ ./latex_to_md input.tex output.md
 ```
 Where:
-    - input.tex is the LaTeX file you want to convert.
-    - output.md is the resulting Markdown file.
+ - input.tex is the LaTeX file you want to convert.
+  - output.md is the resulting Markdown file.
