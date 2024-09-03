@@ -41,3 +41,5 @@ $ ./latex_to_md input.tex output.md
 Where:
  - input.tex is the LaTeX file you want to convert.
   - output.md is the resulting Markdown file.
+  - 
+![Screenshot 2024-09-03 170942](https://github.com/user-attachments/assets/d9487f7b-f599-482e-9040-bba962ee3a6a)
